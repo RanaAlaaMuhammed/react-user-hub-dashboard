@@ -1,0 +1,8 @@
+#root {
+  margin: 0 auto;
+}
+
+.search-input::placeholder {
+  color: #ccc; /* or any color you want */
+  opacity: 1;  /* Optional: ensures full visibility */
+}
