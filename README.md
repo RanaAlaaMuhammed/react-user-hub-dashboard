@@ -23,15 +23,15 @@ A user dashboard built with **React** that fetches user data, displays it in a t
 ```bash
 git clone https://github.com/RanaAlaaMuhammed/react-user-hub-dashboard.git
 cd react-user-hub-dashboard
-
-2. Install Dependencies
+```
+### 2. Install Dependencies
 npm install
 
-3. Start the App
+###  Start the App
 npm start
 Open your browser and go to http://localhost:5173/
 
-⏱ Time Spent
+#### ⏱ Time Spent
 I spent approximately 4–5 hours on this project, including:
 
 Project setup and configuration
@@ -44,7 +44,7 @@ UI styling and responsiveness
 
 GitHub setup and troubleshooting
 
-✨ Notes & Improvements
+#### ✨ Notes & Improvements
 The app currently uses mock data from a public API and local state.
 
 Search supports partial and case-insensitive name matching.
