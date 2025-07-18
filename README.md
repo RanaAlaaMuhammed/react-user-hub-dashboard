@@ -29,7 +29,7 @@ npm install
 
 3. Start the App
 npm start
-Open your browser and go to http://localhost:3000
+Open your browser and go to http://localhost:5173/
 
 ⏱ Time Spent
 I spent approximately 4–5 hours on this project, including:
